@@ -1,1 +1,1 @@
-My first [b]Next js[/b] app
+My first Next js app
